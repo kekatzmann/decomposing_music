@@ -2,7 +2,7 @@
 
 This repository contains the Jupyter notebooks and instrument samples used in my final project at Metis, Decomposing Music. 
 
-The goal of this project is to develop a viable, robust method of isolating the notes in a song, and identifying the instrument playing each note. This process would yield and entirely decomposed song, with each note identified, and information collected on when, how, and by what instrument it was played. Such a method would open up a whole slew of tremendous opportunities. It would allow us to automate sheet music generation, create immensely powerful visualizations from music and sound, and engineer features of songs for use in music analysis and generation.
+The goal of this project is to develop a viable, robust method of isolating the notes in a song, and identifying the instrument playing each note. This process would yield an entirely decomposed song, with each note identified, and information collected on when, how, and by what instrument it was played. Such a method would open up myriad promising opportunities. It would allow us to automate sheet music generation, create immensely powerful visualizations from music and sound, and engineer features of songs for use in music analysis and generation.
 
 However, the solution to this problem has proven quite elusive. Briefly, this is because music is created for human ears and our auditory cortices, which are the results of thousands of years of evolution and courtship and are very complex, and songs that we perceive as pleasant-sounding contain  a convolution of overlapping frequencies. They are pretty much just a mishmash of sounds that are innately very similar, if not the same. I talk more about this in my blog, which you can find [here] (work in progress).
 
